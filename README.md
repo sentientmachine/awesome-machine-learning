@@ -6,6 +6,13 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
 
+
+![Imgur](https://imgur.com/gallery/yLV3zMc)
+
+
+
+
+
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
